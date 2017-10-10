@@ -1,0 +1,16 @@
+perimeter 10
+detectors 3
+	detection_range	detection_deviation
+	50	10
+	50	0
+	50	0
+illuminators 3
+	rotation_speed	rotation_error	range detection_deviation
+	6	10	40	0
+	6	0	40	0
+	6	0	40	0
+interceptors 20 
+	speed	range	rotation_error
+	0.5	0	0
+	0.5	4	0
+foes 30
